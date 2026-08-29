@@ -1,1 +1,0 @@
-Signing key password: stored as ANDROID_KEYSTORE_PASSWORD secret in the Vitalico app settings (website_secrets). Keystore: vitalico-release.keystore, alias: vitalico. NEVER lose this file or app updates will not install over old versions.
